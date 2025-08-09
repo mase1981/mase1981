@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/mase1981">
-    <img src="https://streak-stats.demolab.com/?user=mase1981&theme=dracula"/>
+    <img src="https://streak-stats.demolab.com/?user=mase1981&theme=dracula&cache_bust=0"/>
   </a>
 </p>
 
