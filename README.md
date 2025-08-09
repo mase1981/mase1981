@@ -30,15 +30,12 @@ I love technology and music production, i am big into Home Theater / Home Automa
 </p>
 
 #### Listen to My Original Music
-<p align="left">
-  <a href="https://music.apple.com/us/artist/dj-m-a-s-e/415548672" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
+<p align="center">
+  <a href="https://github.com/mase1981">
+    <img src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://music.youtube.com/channel/UCIIh2l3S1-DZ0x8_2rn89eg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
-  </a>
-  <a href="YOUR_SPOTIFY_ARTIST_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <a href="https://github.com/mase1981">
+    <img src="https://streak-stats.demolab.com/?user=mase1981&theme=dracula"/>
   </a>
 </p>
 
