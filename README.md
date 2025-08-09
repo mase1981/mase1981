@@ -92,6 +92,6 @@ Here are the integrations I've developed to connect various devices and services
 
 ## 📫 Connect with Me
 
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="docker" width="40" height="40"/>
+ <a href="https://www.linkedin.com/in/meirmiyara/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 <p align="left">
   </p>
