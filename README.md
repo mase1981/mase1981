@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/mase1981">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mase1981&theme=dracula"/>
+    <img src="https://streak-stats.demolab.com/?user=mase1981&theme=dracula"/>
   </a>
 </p>
 
@@ -30,12 +30,15 @@ I love technology and music production, i am big into Home Theater / Home Automa
 </p>
 
 #### Listen to My Original Music
-<p align="center">
-  <a href="https://github.com/mase1981">
-    <img src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="left">
+  <a href="https://music.apple.com/us/artist/dj-m-a-s-e/415548672" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
   </a>
-  <a href="https://github.com/mase1981">
-    <img src="https://streak-stats.demolab.com/?user=mase1981&theme=dracula"/>
+  <a href="https://music.youtube.com/channel/UCIIh2l3S1-DZ0x8_2rn89eg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
+  </a>
+  <a href="YOUR_SPOTIFY_ARTIST_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </p>
 
@@ -81,8 +84,8 @@ Here are the integrations I've developed to connect various devices and services
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.https://visualstudio.microsoft.com/.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
 ---
