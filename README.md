@@ -75,7 +75,7 @@ Here are the integrations I've developed to connect various devices and services
     * *Control your Epson Pro/Cinema projectors using PJlink on the Unofolded Circle 2/3 Remote.*
 * **[uc-intg-epson-xbox](https://github.com/mase1981/uc-intg-xbox)**
     * *Control your xbox console using the Unofolded Circle 2/3 Remote.*
-* **[uc-intg-epson-xbox](https://github.com/mase1981/uc-intg-steam)**
+* **[uc-intg-epson-steam](https://github.com/mase1981/uc-intg-steam)**
     * *Steam Currently Playing Game and Friends list Media Integration.*
 
 ---
