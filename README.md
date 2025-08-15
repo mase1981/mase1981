@@ -77,6 +77,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Control your xbox console using the Unofolded Circle 2/3 Remote.*
 * **[uc-intg-epson-steam](https://github.com/mase1981/uc-intg-steam)**
     * *Steam Currently Playing Game and Friends list Media Integration.*
+* **[uc-intg-epson-htpc](https://github.com/mase1981/uc-intg-htpc)**
+    * *Full control and Monitor your HTPC / Windows Machine.*
 
 ---
 
