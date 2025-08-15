@@ -79,6 +79,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Steam Currently Playing Game and Friends list Media Integration.*
 * **[uc-intg-epson-htpc](https://github.com/mase1981/uc-intg-htpc)**
     * *Full control and Monitor your HTPC / Windows Machine.*
+* **[uc-intg-epson-wiim](https://github.com/mase1981/uc-intg-wiim)**
+    * *Full control and currently playing for yout WiiM High-Res Audio Streamer.*
 
 ---
 
