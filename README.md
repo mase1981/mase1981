@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mase1981&layout=compact&theme=dracula" />
