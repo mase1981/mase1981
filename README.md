@@ -73,15 +73,15 @@ Here are the integrations I've developed to connect various devices and services
     * *Display an image on the  Unfolded Circle Remote 2/3 of the currently playing game on xBox.*
 * **[uc-intg-epson-pjlink](https://github.com/mase1981/uc-intg-epson-pjlink)**
     * *Control your Epson Pro/Cinema projectors using PJlink on the Unofolded Circle 2/3 Remote.*
-* **[uc-intg-epson-xbox](https://github.com/mase1981/uc-intg-xbox)**
+* **[uc-intg-xbox](https://github.com/mase1981/uc-intg-xbox)**
     * *Control your xbox console using the Unofolded Circle 2/3 Remote.*
-* **[uc-intg-epson-steam](https://github.com/mase1981/uc-intg-steam)**
+* **[uc-intg-steam](https://github.com/mase1981/uc-intg-steam)**
     * *Steam Currently Playing Game and Friends list Media Integration.*
-* **[uc-intg-epson-htpc](https://github.com/mase1981/uc-intg-htpc)**
+* **[uc-intg-htpc](https://github.com/mase1981/uc-intg-htpc)**
     * *Full control and Monitor your HTPC / Windows Machine.*
-* **[uc-intg-epson-wiim](https://github.com/mase1981/uc-intg-wiim)**
+* **[uc-intg-wiim](https://github.com/mase1981/uc-intg-wiim)**
     * *Full control and currently playing for yout WiiM High-Res Audio Streamer.*
-* **[uc-intg-epson-govee](https://github.com/mase1981/uc-intg-govee)**
+* **[uc-intg-govee](https://github.com/mase1981/uc-intg-govee)**
     * *Full control for your Govee devices.*
 
 ---
