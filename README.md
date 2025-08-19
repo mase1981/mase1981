@@ -54,6 +54,7 @@ I love technology and music production, i am big into Home Theater / Home Automa
 If you enjoy my work and want to support future development, please consider sponsoring me. Any support is greatly appreciated!
 
 <a href="https://paypal.me/mmiyara" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Sponsor with PayPal" /></a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee&nbsp;☕-FFDD00?logo=buy-me-a-coffee&logoColor=white&labelColor=grey)](https://buymeacoffee.com/meirmiyara)
 
 ---
 
