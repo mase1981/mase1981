@@ -84,6 +84,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Full control and currently playing for yout WiiM High-Res Audio Streamer.*
 * **[uc-intg-govee](https://github.com/mase1981/uc-intg-govee)**
     * *Full control for your Govee devices.*
+* **[uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf)**
+    * *Full control for your Nanoleaf devices.*
 
 ---
 
