@@ -86,6 +86,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Full control for your Govee devices.*
 * **[uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf)**
     * *Full control for your Nanoleaf devices.*
+* **[uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo)**
+    * *Full control for your Nanoleaf devices.*
 
 ---
 
