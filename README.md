@@ -88,6 +88,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Full control for your Nanoleaf devices.*
 * **[uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo)**
     * *Monitor NZB Applications.*
+* **[uc-intg-nasa](https://github.com/mase1981/uc-intg-nasa)**
+    * *View live NASA data and images on your Unfolded Circle Remote two/3.*
 
 ---
 
