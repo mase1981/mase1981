@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mase1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mase1981&layout=compact&theme=dracula" />
@@ -86,6 +86,12 @@ Here are the integrations I've developed to connect various devices and services
     * *Full control for your Govee devices.*
 * **[uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf)**
     * *Full control for your Nanoleaf devices.*
+* **[uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo)**
+    * *Monitor NZB Applications.*
+* **[uc-intg-nasa](https://github.com/mase1981/uc-intg-nasa)**
+    * *View live NASA data and images on your Unfolded Circle Remote two/3.*
+* **[uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings)**
+    * *Control Smartthings devices using your Unfolded Circle Remote two/3.*
 
 ---
 
