@@ -92,6 +92,8 @@ Here are the integrations I've developed to connect various devices and services
     * *View live NASA data and images on your Unfolded Circle Remote two/3.*
 * **[uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings)**
     * *Control Smartthings devices using your Unfolded Circle Remote two/3.*
+* **[uc-intg-synology](https://github.com/mase1981/uc-intg-synology-system)**
+    * *Synology monitor and controls using your Unfolded Circle Remote two/3.*
 
 ---
 
