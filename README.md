@@ -96,6 +96,8 @@ Here are the integrations I've developed to connect various devices and services
     * *Synology monitor and controls using your Unfolded Circle Remote two/3.*
 * **[uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast)**
     * *Yamaha MusicCast Media and controls using your Unfolded Circle Remote two/3.*
+* **[uc-intg-naim](https://github.com/mase1981/uc-intg-naim)**
+    * *Naim Audio Media and controls using your Unfolded Circle Remote two/3.*
 
 ---
 
