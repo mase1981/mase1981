@@ -84,7 +84,8 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast)** | Yamaha MusicCast Media and controls using your Unfolded Circle Remote two/3.                                      |
 | **[uc-intg-naim](https://github.com/mase1981/uc-intg-naim)** | Naim Audio Media and controls using your Unfolded Circle Remote two/3.                                            |
 | **[uc-intg-jellyfin](https://github.com/mase1981/uc-intg-jellyfin)** | Jellyfin Media Player for your Unfolded Circle Remote two/3.                                                      |
-| **[uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq)** | SkyQ Contols for your Unfolded Circle Remote two/3.                                                               |
+| **[uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq)** | SkyQ Controls for your Unfolded Circle Remote two/3.                                                               |
+| **[uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution)** | Control your R_Volution Media Players using your Unfolded Circle Remote two/3.                                                               |
 
 ---
 
