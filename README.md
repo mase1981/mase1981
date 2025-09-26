@@ -86,6 +86,7 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-jellyfin](https://github.com/mase1981/uc-intg-jellyfin)** | Jellyfin Media Player for your Unfolded Circle Remote two/3.                                                      |
 | **[uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq)** | SkyQ Controls for your Unfolded Circle Remote two/3.                                                               |
 | **[uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution)** | Control your R_Volution Media Players using your Unfolded Circle Remote two/3.                                                               |
+| **[uc-intg-emby](https://github.com/mase1981/uc-intg-emby)** | Emby Media Player Currnetly Playing ifnormation on your Unfolded Circle Remote two/3.                                                               |
 
 ---
 
