@@ -88,6 +88,7 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution)** | Control your R_Volution Media Players using your Unfolded Circle Remote two/3.                                                               |
 | **[uc-intg-emby](https://github.com/mase1981/uc-intg-emby)** | Emby Media Player Currnetly Playing ifnormation on your Unfolded Circle Remote two/3.                                                               |
 |  **[uc-intg-heos](https://github.com/mase1981/uc-intg-heos)** | Denon/Marantz HEOS multi audio integration on your Unfolded Circle Remote two/3.                                                               |
+|  **[uc-intg-vlcmedia](https://github.com/mase1981/uc-intg-vlcmedia)** | VLC Media Player integration on your Unfolded Circle Remote two/3.                                                               |
 
 ---
 
