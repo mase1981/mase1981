@@ -89,11 +89,9 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-emby](https://github.com/mase1981/uc-intg-emby)** | Emby Media Player Currnetly Playing ifnormation on your Unfolded Circle Remote two/3.                                                               |
 |  **[uc-intg-heos](https://github.com/mase1981/uc-intg-heos)** | Denon/Marantz HEOS multi audio integration on your Unfolded Circle Remote two/3.                                                               |
 |  **[uc-intg-vlcmedia](https://github.com/mase1981/uc-intg-vlcmedia)** | VLC Media Player integration on your Unfolded Circle Remote two/3.                                                               |
+|**[uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver)** | Lyrion Music Server Media Player and remote integration on your Unfolded Circle Remote two/3.                                                               
 |
-**[uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver)** | Lyrion Music Server Media Player and remote integration on your Unfolded Circle Remote two/3.                                                               
-|
-|
-**[uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr)** | MadVR remote integration on your Unfolded Circle Remote two/3.                                         |
+|**[uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr)** | MadVR remote integration on your Unfolded Circle Remote two/3.                                         |
 
 ---
 
