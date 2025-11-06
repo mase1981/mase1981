@@ -92,6 +92,7 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver)** | Lyrion Music Server Media Player and remote integration on your Unfolded Circle Remote two/3.    |                    
 | **[uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr)** | MadVR remote controls on your Unfolded Circle Remote two/3. |
 | **[uc-intg-horizon](https://github.com/mase1981/uc-intg-horizon)** | LG Horizon TV BOX (Ziggo/Virgin Media/Telenet/UPC/Sunrise/Magenta) Currently Playing Media & remote controls on your Unfolded Circle Remote two/3. |
+| **[uc-intg-firetv](https://github.com/mase1981/uc-intg-firetv)** | Amazon Fire TV devices basic controls over IP (Not BT or ADB) on your Unfolded Circle Remote two/3. |
                                 
 ---
 
