@@ -95,7 +95,7 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-firetv](https://github.com/mase1981/uc-intg-firetv)** | Amazon Fire TV devices basic controls over IP (Not BT or ADB) on your Unfolded Circle Remote two/3. |
 | **[uc-intg-emotiva](https://github.com/mase1981/uc-intg-emotiva)** | Control Emotiva Audio/Video processors using Unfolded Circle Two/3. |
 | **[uc-intg-anthemav](https://github.com/mase1981/uc-intg-anthemav)** | Control Anthem Audio/Video processors using Unfolded Circle Two/3. |
-| **[uc-intg-cctv](https://github.com/mase1981/uc-intg-anthemav)** | View your security cameras right on Unfolded Circle Two/3 screen. |
+| **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
                                 
 ---
 
