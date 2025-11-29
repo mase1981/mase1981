@@ -96,6 +96,7 @@ Here are the integrations I've developed to connect various devices and services
 | **[uc-intg-emotiva](https://github.com/mase1981/uc-intg-emotiva)** | Control Emotiva Audio/Video processors using Unfolded Circle Two/3. |
 | **[uc-intg-anthemav](https://github.com/mase1981/uc-intg-anthemav)** | Control Anthem Audio/Video processors using Unfolded Circle Two/3. |
 | **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
+| **[uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio)** | Control Cambridge Audio Devices right on Unfolded Circle Two/3 Remotes. |
                                 
 ---
 
