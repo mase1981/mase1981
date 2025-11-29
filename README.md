@@ -63,40 +63,40 @@ If you enjoy my work and want to support future development, please consider spo
 
 Here are the integrations I've developed to connect various devices and services to the Unfolded Circle remote.
 
-| Integration                                                              | Description                                                                                                       |
-| :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- |
-| **[uc-intg-bond](https://github.com/mase1981/uc-intg-bond)** | Control BOND devices using your Unfolded Circle Remote 2/3.                                                       |
-| **[uc-intg-hdfury](https://github.com/mase1981/uc-intg-hdfury)** | Get a visual for current input/output as well as fully controll your VRRooM with the Unfolded Circle Remote 2/3. |
-| **[uc-intg-spotify](https://github.com/mase1981/uc-intg-spotify)** | See current playing song as well as full control for premium users directly on Unfolded Circle Remote 2/3 screen. |
-| **[uc-intg-weather](https://github.com/mase1981/uc-intg-weather)** | Beautiful weather display on the Unfolded Circle Remote 2/3, support worldwide with option for F and C degrees.   |
-| **[uc-intg-xbox-live](https://github.com/mase1981/uc-intg-xbox-live)** | Display an image on the Unfolded Circle Remote 2/3 of the currently playing game on xBox.                         |
-| **[uc-intg-epson-pjlink](https://github.com/mase1981/uc-intg-epson-pjlink)** | Control your Epson Pro/Cinema projectors using PJlink on the Unofolded Circle 2/3 Remote.                       |
-| **[uc-intg-xbox](https://github.com/mase1981/uc-intg-xbox)** | Control your xbox console using the Unofolded Circle 2/3 Remote.                                                  |
-| **[uc-intg-steam](https://github.com/mase1981/uc-intg-steam)** | Steam Currently Playing Game and Friends list Media Integration.                                                  |
-| **[uc-intg-htpc](https://github.com/mase1981/uc-intg-htpc)** | Full control and Monitor your HTPC / Windows Machine.                                                             |
-| **[uc-intg-wiim](https://github.com/mase1981/uc-intg-wiim)** | Full control and currently playing for yout WiiM High-Res Audio Streamer.                                         |
-| **[uc-intg-govee](https://github.com/mase1981/uc-intg-govee)** | Full control for your Govee devices.                                                                              |
-| **[uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf)** | Full control for your Nanoleaf devices.                                                                           |
-| **[uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo)** | Monitor NZB Applications.                                                                                         |
-| **[uc-intg-nasa](https://github.com/mase1981/uc-intg-nasa)** | View live NASA data and images on your Unfolded Circle Remote two/3.                                              |
-| **[uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings)** | Control Smartthings devices using your Unfolded Circle Remote two/3.                                              |
-| **[uc-intg-synology](https://github.com/mase1981/uc-intg-synology-system)** | Synology monitor and controls using your Unfolded Circle Remote two/3.                                            |
-| **[uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast)** | Yamaha MusicCast Media and controls using your Unfolded Circle Remote two/3.                                      |
-| **[uc-intg-naim](https://github.com/mase1981/uc-intg-naim)** | Naim Audio Media and controls using your Unfolded Circle Remote two/3.                                            |
-| **[uc-intg-jellyfin](https://github.com/mase1981/uc-intg-jellyfin)** | Jellyfin Media Player for your Unfolded Circle Remote two/3.                                                      |
-| **[uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq)** | SkyQ Controls for your Unfolded Circle Remote two/3.                                                               |
-| **[uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution)** | Control your R_Volution Media Players using your Unfolded Circle Remote two/3.                                                               |
-| **[uc-intg-emby](https://github.com/mase1981/uc-intg-emby)** | Emby Media Player Currnetly Playing ifnormation on your Unfolded Circle Remote two/3.                                                               |
-|  **[uc-intg-heos](https://github.com/mase1981/uc-intg-heos)** | Denon/Marantz HEOS multi audio integration on your Unfolded Circle Remote two/3.                                                               |
-|  **[uc-intg-vlcmedia](https://github.com/mase1981/uc-intg-vlcmedia)** | VLC Media Player integration on your Unfolded Circle Remote two/3.                                                               |
-| **[uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver)** | Lyrion Music Server Media Player and remote integration on your Unfolded Circle Remote two/3.    |                    
-| **[uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr)** | MadVR remote controls on your Unfolded Circle Remote two/3. |
-| **[uc-intg-horizon](https://github.com/mase1981/uc-intg-horizon)** | LG Horizon TV BOX (Ziggo/Virgin Media/Telenet/UPC/Sunrise/Magenta) Currently Playing Media & remote controls on your Unfolded Circle Remote two/3. |
-| **[uc-intg-firetv](https://github.com/mase1981/uc-intg-firetv)** | Amazon Fire TV devices basic controls over IP (Not BT or ADB) on your Unfolded Circle Remote two/3. |
-| **[uc-intg-emotiva](https://github.com/mase1981/uc-intg-emotiva)** | Control Emotiva Audio/Video processors using Unfolded Circle Two/3. |
-| **[uc-intg-anthemav](https://github.com/mase1981/uc-intg-anthemav)** | Control Anthem Audio/Video processors using Unfolded Circle Two/3. |
-| **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
-| **[uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio)** | Control Cambridge Audio Devices right on Unfolded Circle Two/3 Remotes. |
+| # | Integration | Description |
+| :--- | :--- | :--- |
+| 1 | **[uc-intg-bond](https://github.com/mase1981/uc-intg-bond)** | Control BOND devices using your Unfolded Circle Remote 2/3. |
+| 2 | **[uc-intg-hdfury](https://github.com/mase1981/uc-intg-hdfury)** | Get a visual for current input/output as well as fully control your VRRooM with the Unfolded Circle Remote 2/3. |
+| 3 | **[uc-intg-spotify](https://github.com/mase1981/uc-intg-spotify)** | See current playing song as well as full control for premium users directly on Unfolded Circle Remote 2/3 screen. |
+| 4 | **[uc-intg-weather](https://github.com/mase1981/uc-intg-weather)** | Beautiful weather display on the Unfolded Circle Remote 2/3, support worldwide with option for F and C degrees. |
+| 5 | **[uc-intg-xbox-live](https://github.com/mase1981/uc-intg-xbox-live)** | Display an image on the Unfolded Circle Remote 2/3 of the currently playing game on xBox. |
+| 6 | **[uc-intg-epson-pjlink](https://github.com/mase1981/uc-intg-epson-pjlink)** | Control your Epson Pro/Cinema projectors using PJlink on the Unfolded Circle 2/3 Remote. |
+| 7 | **[uc-intg-xbox](https://github.com/mase1981/uc-intg-xbox)** | Control your xbox console using the Unfolded Circle 2/3 Remote. |
+| 8 | **[uc-intg-steam](https://github.com/mase1981/uc-intg-steam)** | Steam Currently Playing Game and Friends list Media Integration. |
+| 9 | **[uc-intg-htpc](https://github.com/mase1981/uc-intg-htpc)** | Full control and Monitor your HTPC / Windows Machine. |
+| 10 | **[uc-intg-wiim](https://github.com/mase1981/uc-intg-wiim)** | Full control and currently playing for your WiiM High-Res Audio Streamer. |
+| 11 | **[uc-intg-govee](https://github.com/mase1981/uc-intg-govee)** | Full control for your Govee devices. |
+| 12 | **[uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf)** | Full control for your Nanoleaf devices. |
+| 13 | **[uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo)** | Monitor NZB Applications. |
+| 14 | **[uc-intg-nasa](https://github.com/mase1981/uc-intg-nasa)** | View live NASA data and images on your Unfolded Circle Remote two/3. |
+| 15 | **[uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings)** | Control Smartthings devices using your Unfolded Circle Remote two/3. |
+| 16 | **[uc-intg-synology](https://github.com/mase1981/uc-intg-synology-system)** | Synology monitor and controls using your Unfolded Circle Remote two/3. |
+| 17 | **[uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast)** | Yamaha MusicCast Media and controls using your Unfolded Circle Remote two/3. |
+| 18 | **[uc-intg-naim](https://github.com/mase1981/uc-intg-naim)** | Naim Audio Media and controls using your Unfolded Circle Remote two/3. |
+| 19 | **[uc-intg-jellyfin](https://github.com/mase1981/uc-intg-jellyfin)** | Jellyfin Media Player for your Unfolded Circle Remote two/3. |
+| 20 | **[uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq)** | SkyQ Controls for your Unfolded Circle Remote two/3. |
+| 21 | **[uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution)** | Control your R_Volution Media Players using your Unfolded Circle Remote two/3. |
+| 22 | **[uc-intg-emby](https://github.com/mase1981/uc-intg-emby)** | Emby Media Player Currently Playing information on your Unfolded Circle Remote two/3. |
+| 23 | **[uc-intg-heos](https://github.com/mase1981/uc-intg-heos)** | Denon/Marantz HEOS multi audio integration on your Unfolded Circle Remote two/3. |
+| 24 | **[uc-intg-vlcmedia](https://github.com/mase1981/uc-intg-vlcmedia)** | VLC Media Player integration on your Unfolded Circle Remote two/3. |
+| 25 | **[uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver)** | Lyrion Music Server Media Player and remote integration on your Unfolded Circle Remote two/3. |
+| 26 | **[uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr)** | MadVR remote controls on your Unfolded Circle Remote two/3. |
+| 27 | **[uc-intg-horizon](https://github.com/mase1981/uc-intg-horizon)** | LG Horizon TV BOX (Ziggo/Virgin Media/Telenet/UPC/Sunrise/Magenta) Currently Playing Media & remote controls on your Unfolded Circle Remote two/3. |
+| 28 | **[uc-intg-firetv](https://github.com/mase1981/uc-intg-firetv)** | Amazon Fire TV devices basic controls over IP (Not BT or ADB) on your Unfolded Circle Remote two/3. |
+| 29 | **[uc-intg-emotiva](https://github.com/mase1981/uc-intg-emotiva)** | Control Emotiva Audio/Video processors using Unfolded Circle Two/3. |
+| 30 | **[uc-intg-anthemav](https://github.com/mase1981/uc-intg-anthemav)** | Control Anthem Audio/Video processors using Unfolded Circle Two/3. |
+| 31 | **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
+| 32 | **[uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio)** | Control Cambridge Audio Devices right on Unfolded Circle Two/3 Remotes. |
                                 
 ---
 
