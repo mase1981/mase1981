@@ -97,6 +97,7 @@ Here are the integrations I've developed to connect various devices and services
 | 30 | **[uc-intg-anthemav](https://github.com/mase1981/uc-intg-anthemav)** | Control Anthem Audio/Video processors using Unfolded Circle Two/3. |
 | 31 | **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
 | 32 | **[uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio)** | Control Cambridge Audio Devices right on Unfolded Circle Two/3 Remotes. |
+| 33 | **[uc-remote-android](https://github.com/mase1981/uc-remote-android)** | Crazy awesome full control android app for your unfolded circle Two/3. |
                                 
 ---
 
