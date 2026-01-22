@@ -102,6 +102,8 @@ Here are the integrations I've developed to connect various devices and services
 | 35 | **[uc-remote-panasonicviera](https://github.com/mase1981/uc-remote-panasonicviera)** | Control Panasonic Viera TV right on Unfolded Circle Two/3 Remotes. |
 | 36 | **[uc-remote-arcam](https://github.com/mase1981/uc-remote-arcam)** | Control arcam Devices right on Unfolded Circle Two/3 Remotes. |
 | 37 | **[uc-remote-monoprice-htp1](https://github.com/mase1981/uc-remote-monoprice-htp1)** | Control Monoproce HTP1 Devices right on Unfolded Circle Two/3 Remotes. |
+| 38 | **[uc-remote-monoprice-octoprint](https://github.com/mase1981/uc-remote-monoprice-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
+
                                 
 ---
 
