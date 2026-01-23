@@ -98,11 +98,11 @@ Here are the integrations I've developed to connect various devices and services
 | 31 | **[uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv)** | View your security cameras right on Unfolded Circle Two/3 screen. |
 | 32 | **[uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio)** | Control Cambridge Audio Devices right on Unfolded Circle Two/3 Remotes. |
 | 33 | **[uc-remote-android](https://github.com/mase1981/uc-remote-android)** | Crazy awesome full control android app for your unfolded circle Two/3. |
-| 34 | **[uc-remote-nadav](https://github.com/mase1981/uc-remote-nadav)** | Control NAD AV Devices right on Unfolded Circle Two/3 Remotes. |
-| 35 | **[uc-remote-panasonicviera](https://github.com/mase1981/uc-remote-panasonicviera)** | Control Panasonic Viera TV right on Unfolded Circle Two/3 Remotes. |
-| 36 | **[uc-remote-arcam](https://github.com/mase1981/uc-remote-arcam)** | Control arcam Devices right on Unfolded Circle Two/3 Remotes. |
-| 37 | **[uc-remote-monoprice-htp1](https://github.com/mase1981/uc-remote-monoprice-htp1)** | Control Monoproce HTP1 Devices right on Unfolded Circle Two/3 Remotes. |
-| 38 | **[uc-remote-monoprice-octoprint](https://github.com/mase1981/uc-remote-monoprice-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
+| 34 | **[uc-intg-nadav](https://github.com/mase1981/uc-intg-nadav)** | Control NAD AV Devices right on Unfolded Circle Two/3 Remotes. |
+| 35 | **[uc-intg-panasonicviera](https://github.com/mase1981/uc-intg-panasonicviera)** | Control Panasonic Viera TV right on Unfolded Circle Two/3 Remotes. |
+| 36 | **[uc-intg-arcam](https://github.com/mase1981/uc-intg--arcam)** | Control arcam Devices right on Unfolded Circle Two/3 Remotes. |
+| 37 | **[uc-intg-monoprice-htp1](https://github.com/mase1981/uc-intg-monoprice-htp1)** | Control Monoproce HTP1 Devices right on Unfolded Circle Two/3 Remotes. |
+| 38 | **[uc-intg-octoprint](https://github.com/mase1981/uc-remote-intg-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
 
                                 
 ---
