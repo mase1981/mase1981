@@ -100,9 +100,9 @@ Here are the integrations I've developed to connect various devices and services
 | 33 | **[uc-remote-android](https://github.com/mase1981/uc-remote-android)** | Crazy awesome full control android app for your unfolded circle Two/3. |
 | 34 | **[uc-intg-nadav](https://github.com/mase1981/uc-intg-nadav)** | Control NAD AV Devices right on Unfolded Circle Two/3 Remotes. |
 | 35 | **[uc-intg-panasonicviera](https://github.com/mase1981/uc-intg-panasonicviera)** | Control Panasonic Viera TV right on Unfolded Circle Two/3 Remotes. |
-| 36 | **[uc-intg-arcam](https://github.com/mase1981/uc-intg--arcam)** | Control arcam Devices right on Unfolded Circle Two/3 Remotes. |
+| 36 | **[uc-intg-arcam](https://github.com/mase1981/uc-intg-arcam)** | Control arcam Devices right on Unfolded Circle Two/3 Remotes. |
 | 37 | **[uc-intg-monoprice-htp1](https://github.com/mase1981/uc-intg-monoprice-htp1)** | Control Monoproce HTP1 Devices right on Unfolded Circle Two/3 Remotes. |
-| 38 | **[uc-intg-octoprint](https://github.com/mase1981/uc-remote-intg-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
+| 38 | **[uc-intg-octoprint](https://github.com/mase1981/uc-intg-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
 
                                 
 ---
