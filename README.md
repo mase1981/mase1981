@@ -104,6 +104,7 @@ Here are the integrations I've developed to connect various devices and services
 | 37 | **[uc-intg-monoprice-htp1](https://github.com/mase1981/uc-intg-monoprice-htp1)** | Control Monoproce HTP1 Devices right on Unfolded Circle Two/3 Remotes. |
 | 38 | **[uc-intg-octoprint](https://github.com/mase1981/uc-intg-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
 | 39 | **[uc-intg-eversolo](https://github.com/mase1981/uc-intg-eversolo)** | Control eversolo devices from Unfolded Circle Two/3 Remotes. |
+| 40 | **[uc-intg-bluesound](https://github.com/mase1981/uc-intg-bluesound)** | Control bluesound devices from Unfolded Circle Two/3 Remotes. |
 
                                 
 ---
