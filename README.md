@@ -105,6 +105,7 @@ Here are the integrations I've developed to connect various devices and services
 | 38 | **[uc-intg-octoprint](https://github.com/mase1981/uc-intg-octoprint)** | Control 3D printers via Octoprint right on Unfolded Circle Two/3 Remotes. |
 | 39 | **[uc-intg-eversolo](https://github.com/mase1981/uc-intg-eversolo)** | Control eversolo devices from Unfolded Circle Two/3 Remotes. |
 | 40 | **[uc-intg-bluesound](https://github.com/mase1981/uc-intg-bluesound)** | Control bluesound devices from Unfolded Circle Two/3 Remotes. |
+| 41 | **[uc-intg-bluesound](https://github.com/mase1981/uc-intg-jblav)** | Control jbl MA AV Recievers from Unfolded Circle Two/3 Remotes. |
 
                                 
 ---
