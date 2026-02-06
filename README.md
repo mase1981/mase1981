@@ -63,7 +63,7 @@ If you enjoy my work and want to support future development, please consider spo
 
 Here are the integrations I've developed to connect various devices and services to the Unfolded Circle remote.
 
-![Total Downloads](https://img.shields.io)
+![Total Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json)
 
 | # | Integration | Description |
 | :--- | :--- | :--- |
