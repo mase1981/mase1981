@@ -62,6 +62,7 @@ If you enjoy my work and want to support future development, please consider spo
 ## 🚀 My Unfolded Circle Integrations
 
 Here are the integrations I've developed to connect various devices and services to the Unfolded Circle remote.
+![My Work Total Download Count](https://img.shields.io)
 
 | # | Integration | Description |
 | :--- | :--- | :--- |
