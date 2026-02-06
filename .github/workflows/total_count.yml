@@ -1,0 +1,72 @@
+name: Update Total Downloads Badge
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Calculate Total Downloads
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const username = context.repo.owner;
+            let totalDownloads = 0;
+
+            console.log(`Fetching repos for ${username}...`);
+            
+            // 1. Fetch all public repositories (handles pagination automatically)
+            const repos = await github.paginate("GET /users/{owner}/repos", {
+              owner: username,
+              per_page: 100
+            });
+
+            // 2. Iterate through repos to sum release downloads
+            for (const repo of repos) {
+              if (repo.fork) continue; // Optional: Skip forks
+
+              try {
+                const releases = await github.paginate("GET /repos/{owner}/{repo}/releases", {
+                  owner: username,
+                  repo: repo.name,
+                  per_page: 100
+                });
+
+                for (const release of releases) {
+                  for (const asset of release.assets) {
+                    totalDownloads += asset.download_count;
+                  }
+                }
+              } catch (error) {
+                console.log(`Skipping ${repo.name}: No releases or access denied.`);
+              }
+            }
+
+            console.log(`Total Downloads: ${totalDownloads}`);
+
+            // 3. Create JSON for Shields.io Endpoint
+            const badgeData = {
+              schemaVersion: 1,
+              label: "downloads",
+              message: totalDownloads.toString(),
+              color: "brightgreen",
+              namedLogo: "github"
+            };
+
+            fs.writeFileSync('downloads.json', JSON.stringify(badgeData));
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add downloads.json
+          # Only commit if the count has changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update total downloads count" && git push)
