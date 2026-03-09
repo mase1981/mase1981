@@ -108,6 +108,7 @@ Here are the integrations I've developed to connect various devices and services
 | 39 | **[uc-intg-eversolo](https://github.com/mase1981/uc-intg-eversolo)** | Control eversolo devices from Unfolded Circle Two/3 Remotes. |
 | 40 | **[uc-intg-bluesound](https://github.com/mase1981/uc-intg-bluesound)** | Control bluesound devices from Unfolded Circle Two/3 Remotes. |
 | 41 | **[uc-intg-jblav](https://github.com/mase1981/uc-intg-jblav)** | Control jbl MA AV Recievers from Unfolded Circle Two/3 Remotes. |
+| 42 | **[uc-intg-jblav](https://github.com/mase1981/uc-intg-unifi)** | Control Ubuqiti UniFi Network & Protect devices from Unfolded Circle Two/3 Remotes. |
 
                                 
 ---
