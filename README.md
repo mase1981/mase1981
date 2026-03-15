@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Director of Software Development who builds things that connect the physical and digital world. From smart home integrations to full-stack e-commerce, mobile apps to Python libraries - if it involves an API and a device, I'm probably already building an integration for it.
+I'm a Director of Software Development with a passion for connecting devices and building things people actually use. I spend most of my time working on smart home integrations, full-stack e-commerce, and mobile apps - always learning, always building.
 
 - 🔭 **42+ custom integrations** for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform - the largest third-party integration library in the ecosystem
 - 🛒 **Full-stack e-commerce platform** - [Elan Audio Lab](https://elanaudiolab.com), a custom tube amplifier configurator built with Flutter (Web + iOS + Android)
