@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Meir Miyara - Software Engineer, Builder, Maker" width="100%"/>
+  <img src="assets/header.svg" alt="Meir Miyara - Developer, Builder, Maker" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/MiyaraHub-%23FF3B3B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEzIDEwVjNMNCAxNGgxbDEgMXYxaDF2LTF6Ii8+PC9zdmc+&logoColor=white&label=⚡" alt="MiyaraHub"/></a>
-  <a href="https://elanaudiolab.com"><img src="https://img.shields.io/badge/Elan_Audio_Lab-%23161b22?style=for-the-badge&logo=audio&logoColor=FF6B6B" alt="Elan Audio Lab"/></a>
+  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/⚡_MiyaraHub-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
+  <a href="https://elanaudiolab.com"><img src="https://img.shields.io/badge/Elan_Audio_Lab-%23161b22?style=for-the-badge&logoColor=FF6B6B" alt="Elan Audio Lab"/></a>
   <a href="https://github.com/mase1981?tab=repositories"><img src="https://img.shields.io/badge/50+_Repos-%23161b22?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Repos"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-42+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="42+ Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="45+ Integrations"/>
   <img src="https://img.shields.io/badge/apps_on_Play_Store-5-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="5 Apps on Play Store"/>
-  <img src="https://img.shields.io/badge/platforms-Web_·_Android_·_iOS-FF6B6B?style=flat-square" alt="Platforms"/>
+  <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
 
 ---
 
 ### 👋 Hey
 
-I'm a software engineer out of Dallas, TX. I build things that connect devices, automate homes, and put real products in people's hands. Most of my work sits at the intersection of **smart home tech**, **AV control**, and **cross-platform mobile apps**. I run [**MiyaraHub Technologies**](https://miyarahub.com) — a small studio shipping production software for the IoT and home automation world.
+I lead engineering teams by day and build my own products at night. Based in Dallas, TX - most of my work sits at the intersection of **smart home tech**, **AV control**, and **cross-platform mobile apps**. I run [**MiyaraHub Technologies**](https://miyarahub.com), a small studio shipping production software for the IoT and home automation space.
 
-I like solving integration problems — the kind where you have 6 different protocols, 3 APIs that barely work, and a spec PDF from 2009. If it has a network port, I've probably tried to talk to it.
+I like solving integration problems - the kind where you have 6 different protocols, 3 APIs that barely work, and a spec PDF from 2009. If it has a network port, I've probably tried to talk to it.
 
 ---
 
-## 📱 Apps — Live on Google Play
+## 📱 Apps - Live on Google Play
 
 Production apps built and shipped under [MiyaraHub Technologies](https://miyarahub.com). All cross-platform with Flutter.
 
@@ -56,7 +56,7 @@ Premium controller for Denon & Marantz AV receivers. Volume, inputs, surround mo
 <td width="50%" valign="top">
 
 ### ⚡ [FuryPath](https://miyarahub.com/fury-path/)
-Comprehensive mobile controller for HDFury HDMI processors. EDID management, HDR/Dolby Vision control, CEC/eARC config, JVC macros, real-time signal info — all over Wi-Fi.
+Comprehensive mobile controller for HDFury HDMI processors. EDID management, HDR/Dolby Vision control, CEC/eARC config, JVC macros, real-time signal info - all over Wi-Fi.
 
 `Flutter` `HTTP/SSI` `HDFury API`
 
@@ -78,7 +78,7 @@ UPS monitoring for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable devi
 <td width="50%" valign="top">
 
 ### 💾 [Synology Manager](https://miyarahub.com/synology-manager/)
-Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker containers, network, surveillance cameras, backup tasks — everything in one dashboard.
+Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker containers, network, surveillance cameras, backup tasks - everything in one dashboard.
 
 `Flutter` `Synology DSM API` `Docker`
 
@@ -88,7 +88,7 @@ Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker conta
 <td width="50%" valign="top">
 
 ### 🎥 ProjectorPilot *(coming soon)*
-Controller for Epson projectors. Power, picture settings, color modes, HDR, lens memory, keystone, lamp hours, OSD navigation — all over Wi-Fi.
+Controller for Epson projectors. Power, picture settings, color modes, HDR, lens memory, keystone, lamp hours, OSD navigation - all over Wi-Fi.
 
 `Flutter` `PJLink` `Web Control`
 
@@ -102,16 +102,27 @@ Controller for Epson projectors. Power, picture settings, color modes, HDR, lens
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **42+ integrations** across AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **45+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+
+**All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-42+-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=for-the-badge" alt="Integrations"/>
   <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
+  <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
 
+### 📱 [UC Remote Android](https://github.com/mase1981/uc-remote-android) - Unofficial Android Companion App
+
+A full-featured Android companion app for the Unfolded Circle Remote Two and Remote 3. Browse integrations, manage configurations, and control your remote - all from your phone.
+
+`Kotlin` `Android` `REST API` `WebSocket`
+
+---
+
 <details>
-<summary><b>🎬 AV Receivers & Processors</b> — Anthem, ARCAM, Cambridge Audio, Emotiva, JBL, NAD</summary>
+<summary><b>🎬 AV Receivers & Processors</b> - Anthem, ARCAM, Cambridge Audio, Emotiva, JBL, NAD</summary>
 <br/>
 
 | Integration | Description |
@@ -125,7 +136,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>🎵 Audio Streamers & Music</b> — Bluesound, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
+<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
 <br/>
 
 | Integration | Description |
@@ -141,7 +152,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>📺 Media Players & Streaming</b> — Emby, Fire TV, Jellyfin, Plex, R_Volution, VLC</summary>
+<summary><b>📺 Media Players & Streaming</b> - Emby, Fire TV, Jellyfin, Plex, R_Volution, VLC</summary>
 <br/>
 
 | Integration | Description |
@@ -155,7 +166,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>📡 TV & Set-Top Boxes</b> — Horizon, Panasonic Viera, Sky Q</summary>
+<summary><b>📡 TV & Set-Top Boxes</b> - Horizon, Panasonic Viera, Sky Q</summary>
 <br/>
 
 | Integration | Description |
@@ -166,7 +177,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>🎮 Gaming</b> — Xbox, Xbox Live, Steam</summary>
+<summary><b>🎮 Gaming</b> - Xbox, Xbox Live, Steam</summary>
 <br/>
 
 | Integration | Description |
@@ -177,7 +188,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>🏠 Smart Home & IoT</b> — Bond, Govee, Nanoleaf, SmartThings, UniFi</summary>
+<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi</summary>
 <br/>
 
 | Integration | Description |
@@ -190,7 +201,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>🎥 Video & Projection</b> — CCTV, Epson PJLink, HDFury, madVR, Monoprice HTP-1</summary>
+<summary><b>🎥 Video & Projection</b> - CCTV, Epson PJLink, HDFury, madVR, Monoprice HTP-1</summary>
 <br/>
 
 | Integration | Description |
@@ -203,7 +214,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 </details>
 
 <details>
-<summary><b>🖥️ PC, Network & Widgets</b> — HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
+<summary><b>🖥️ PC, Network & Widgets</b> - HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
 <br/>
 
 | Integration | Description |
@@ -218,6 +229,18 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 
 <p align="center">
   <a href="https://github.com/mase1981/uc-intg-list"><b>📋 Full Integration Directory →</b></a>
+</p>
+
+---
+
+## 💝 Support Open Source
+
+All 45+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+
+<p align="center">
+  <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
+  <a href="https://buymeacoffee.com/meirmiyara"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+  <a href="https://paypal.me/mmiyara"><img src="https://img.shields.io/badge/PayPal-%2300457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
 </p>
 
 ---
@@ -243,14 +266,14 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 
 ## 🎵 Other Things
 
-When I'm not writing code, I'm probably making music. I produce, sing, and write as **dj M.a.S.e** — available on [Spotify](https://open.spotify.com/artist/dj-mase), Apple Music, and everywhere else.
+When I'm not writing code, I'm probably making music. I produce, sing, and write as **dj M.a.S.e** - available on [Spotify](https://open.spotify.com/artist/dj-mase), Apple Music, and everywhere else.
 
 Also big into home theater and home automation. If it has an IP address and a questionable API, I've probably written a driver for it.
 
 ---
 
 <p align="center">
-  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/miyarahub.com-%23FF3B3B?style=for-the-badge&logoColor=white&label=🌐" alt="MiyaraHub"/></a>
+  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/🌐_miyarahub.com-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
   <a href="https://github.com/mase1981"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 

@@ -71,7 +71,7 @@
   
   <!-- Subtitle -->
   <text x="450" y="155" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400" fill="url(#subtitleGrad)" text-anchor="middle" filter="url(#softGlow)" letter-spacing="3">
-    SOFTWARE ENGINEER  ·  BUILDER  ·  MAKER
+    DEVELOPER  ·  BUILDER  ·  MAKER
   </text>
   
   <!-- Company -->
@@ -81,6 +81,6 @@
   
   <!-- Tagline -->
   <text x="450" y="235" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="300" fill="#6e7681" text-anchor="middle" font-style="italic">
-    Turning complex hardware ecosystems into things people actually enjoy using
+    Turning complex hardware into things people actually enjoy using
   </text>
 </svg>
