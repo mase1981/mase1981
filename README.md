@@ -119,7 +119,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 `Kotlin` `Android` `REST API` `WebSocket` `Material Design 3`
 
-<a href="https://play.google.com/store/apps/details?id=com.ucremote.android"><img src="https://img.shields.io/badge/Get_it_on_Google_Play-%23414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.ucremote.android"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
 
 ---
 
@@ -230,7 +230,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <p align="center">
-  <a href="https://github.com/mase1981/uc-intg-list"><b>📋 Full Integration Directory →</b></a>
+  <a href="https://github.com/stars/mase1981/lists/unfolded-circle-integrations"><b>📋 Full Integration Directory →</b></a>
 </p>
 
 ---
