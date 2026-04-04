@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Meir Miyara - Developer, Builder, Maker" width="100%"/>
+  <img src="assets/header.svg" alt="Meir Miyara - Leader, Builder, Maker" width="100%"/>
 </p>
 
 <p align="center">
@@ -115,9 +115,11 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
 
 ### 📱 [UC Remote Android](https://github.com/mase1981/uc-remote-android) - Unofficial Android Companion App
 
-A full-featured Android companion app for the Unfolded Circle Remote Two and Remote 3. Browse integrations, manage configurations, and control your remote - all from your phone.
+A full-featured native Android companion app for the Unfolded Circle Remote Two and Remote 3. Entity management, real-time WebSocket updates, custom UI pages, profile support, and Wake-on-LAN - built with 100% Kotlin.
 
-`Kotlin` `Android` `REST API` `WebSocket`
+`Kotlin` `Android` `REST API` `WebSocket` `Material Design 3`
+
+<a href="https://play.google.com/store/apps/details?id=com.ucremote.android"><img src="https://img.shields.io/badge/Get_it_on_Google_Play-%23414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
 
 ---
 
@@ -264,9 +266,21 @@ All 45+ Unfolded Circle integrations and the Android companion app are **open so
 
 ---
 
-## 🎵 Other Things
+## 🎵 Music - dj M.a.S.e
 
-When I'm not writing code, I'm probably making music. I produce, sing, and write as **dj M.a.S.e** - available on [Spotify](https://open.spotify.com/artist/dj-mase), Apple Music, and everywhere else.
+<p align="center">
+  <img src="assets/mase-banner.jpg" alt="dj M.a.S.e" width="600"/>
+</p>
+
+When I'm not writing code, I'm making music. I produce, sing, and write as **dj M.a.S.e** - original tracks across multiple genres. Available everywhere you stream.
+
+<p align="center">
+  <a href="https://open.spotify.com/album/2UhXY9hZzyFg8bKpormAYN"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="http://itunes.apple.com/album/id1556812654?ls=1&app=itunes"><img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/></a>
+  <a href="https://music.youtube.com/playlist?list=OLAK5uy_nfXv9I8gPhwBefmP7aI9-5W9gFYjxlRvs"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/></a>
+  <a href="https://music.amazon.com/albums/B08Y57SPRQ"><img src="https://img.shields.io/badge/Amazon_Music-00A8E1?style=for-the-badge&logo=amazon-music&logoColor=white" alt="Amazon Music"/></a>
+  <a href="https://tidal.com/album/176010004"><img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white" alt="Tidal"/></a>
+</p>
 
 Also big into home theater and home automation. If it has an IP address and a questionable API, I've probably written a driver for it.
 
