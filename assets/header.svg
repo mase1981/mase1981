@@ -1,0 +1,86 @@
+<svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1a0a0a;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="redGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF3B3B;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#FF6B6B;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FF3B3B;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#FF9999;stop-opacity:0.9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Animated dots -->
+    <circle id="dot" r="2" fill="#FF3B3B" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)" rx="0"/>
+  
+  <!-- Subtle grid pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FF3B3B" stroke-width="0.3" opacity="0.08"/>
+  </pattern>
+  <rect width="900" height="300" fill="url(#grid)"/>
+  
+  <!-- Decorative accent lines -->
+  <line x1="0" y1="280" x2="900" y2="280" stroke="#FF3B3B" stroke-width="2" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="283" x2="900" y2="283" stroke="#FF3B3B" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Corner accents -->
+  <path d="M 0 40 L 0 0 L 40 0" fill="none" stroke="#FF3B3B" stroke-width="2" opacity="0.4"/>
+  <path d="M 860 0 L 900 0 L 900 40" fill="none" stroke="#FF3B3B" stroke-width="2" opacity="0.4"/>
+  <path d="M 0 260 L 0 275" fill="none" stroke="#FF3B3B" stroke-width="2" opacity="0.4"/>
+  <path d="M 900 260 L 900 275" fill="none" stroke="#FF3B3B" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Floating particles -->
+  <use href="#dot" x="120" y="50"/>
+  <use href="#dot" x="780" y="80"/>
+  <use href="#dot" x="200" y="250"/>
+  <use href="#dot" x="650" y="40"/>
+  <use href="#dot" x="400" y="260"/>
+  <use href="#dot" x="830" y="200"/>
+  <use href="#dot" x="70" y="150"/>
+  
+  <!-- Main title -->
+  <text x="450" y="110" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700" fill="url(#redGlow)" text-anchor="middle" filter="url(#glow)">
+    Meir Miyara
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="450" y="155" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400" fill="url(#subtitleGrad)" text-anchor="middle" filter="url(#softGlow)" letter-spacing="3">
+    SOFTWARE ENGINEER  ·  BUILDER  ·  MAKER
+  </text>
+  
+  <!-- Company -->
+  <text x="450" y="195" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="300" fill="#8b949e" text-anchor="middle" letter-spacing="1">
+    Founder @ MiyaraHub Technologies · Dallas, TX
+  </text>
+  
+  <!-- Tagline -->
+  <text x="450" y="235" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="300" fill="#6e7681" text-anchor="middle" font-style="italic">
+    Turning complex hardware ecosystems into things people actually enjoy using
+  </text>
+</svg>
