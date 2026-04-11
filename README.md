@@ -216,11 +216,12 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🖥️ PC, Network & Widgets</b> - HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
+<summary><b>🖥️ PC, Network & Widgets</b> - eero, HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
 <br/>
 
 | Integration | Description |
 | :--- | :--- |
+| [uc-intg-eero](https://github.com/mase1981/uc-intg-eero) | eero WiFi mesh network monitor & controls |
 | [uc-intg-htpc](https://github.com/mase1981/uc-intg-htpc) | HTPC/Windows system monitor & controls |
 | [uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo) | NZB application monitoring |
 | [uc-intg-octoprint](https://github.com/mase1981/uc-intg-octoprint) | OctoPrint 3D printer control |
