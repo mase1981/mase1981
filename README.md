@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
   <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="45+ Integrations"/>
   <img src="https://img.shields.io/badge/apps_on_Play_Store-5-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="5 Apps on Play Store"/>
+  <img src="https://img.shields.io/badge/apps_on_App_Store-3-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="3 Apps on App Store"/>
   <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
 
@@ -25,7 +26,7 @@ I like solving integration problems - the kind where you have 6 different protoc
 
 ---
 
-## 📱 Apps - Live on Google Play
+## 📱 Apps - Live on Google Play & App Store
 
 Production apps built and shipped under [MiyaraHub Technologies](https://miyarahub.com). All cross-platform with Flutter.
 
@@ -48,7 +49,7 @@ Premium controller for Denon & Marantz AV receivers. Volume, inputs, surround mo
 
 `Flutter` `HTTP` `Telnet` `HEOS`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) · [Details](https://miyarahub.com/avr-maestro/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) · [App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) · [Details](https://miyarahub.com/avr-maestro/)
 
 </td>
 </tr>
@@ -60,7 +61,7 @@ Comprehensive mobile controller for HDFury HDMI processors. EDID management, HDR
 
 `Flutter` `HTTP/SSI` `HDFury API`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) · [Details](https://miyarahub.com/fury-path/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) · [App Store](https://apps.apple.com/us/app/id6763290302) · [Details](https://miyarahub.com/fury-path/)
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +71,7 @@ UPS monitoring for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable devi
 
 `Flutter` `SNMP` `NUT Protocol`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · [Details](https://miyarahub.com/upsight/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · iOS (in review) · [Details](https://miyarahub.com/upsight/)
 
 </td>
 </tr>
@@ -82,7 +83,7 @@ Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker conta
 
 `Flutter` `Synology DSM API` `Docker`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) · [Details](https://miyarahub.com/synology-manager/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) · [App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) · [Details](https://miyarahub.com/synology-manager/)
 
 </td>
 <td width="50%" valign="top">
@@ -93,6 +94,24 @@ Controller for Epson projectors. Power, picture settings, color modes, HDR, lens
 `Flutter` `PJLink` `Web Control`
 
 **→** [Details](https://miyarahub.com/projector-pilot/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Network Deck *(coming soon)*
+Mobile controller for Ubiquiti UniFi. Dashboard, clients, devices, WiFi, VPN, firewall, integrations (Protect, Access), site survey, speed tests, bandwidth monitoring - full UniFi toolkit in your pocket.
+
+`Flutter` `UniFi Controller API` `WebSocket`
+
+**→** [Details](https://miyarahub.com/network-deck/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More coming...
+Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site](https://miyarahub.com) or [Discord](https://discord.gg/UmVtxE5fXN) for release news.
 
 </td>
 </tr>
