@@ -10,9 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="45+ Integrations"/>
-  <img src="https://img.shields.io/badge/apps_on_Play_Store-5-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="5 Apps on Play Store"/>
-  <img src="https://img.shields.io/badge/apps_on_App_Store-3-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="3 Apps on App Store"/>
+  <img src="https://img.shields.io/badge/integrations-44+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="44+ Integrations"/>
+  <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
+  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-4-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="4 Apps on App Store"/></a>
   <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
 
@@ -71,7 +71,7 @@ UPS monitoring for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable devi
 
 `Flutter` `SNMP` `NUT Protocol`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · iOS (in review) · [Details](https://miyarahub.com/upsight/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · [App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) · [Details](https://miyarahub.com/upsight/)
 
 </td>
 </tr>
@@ -88,7 +88,19 @@ Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker conta
 </td>
 <td width="50%" valign="top">
 
-### 🎥 ProjectorPilot *(coming soon)*
+### 🎼 AVR Maestro MC *(in development)*
+Sibling to AVR Maestro for Yamaha MusicCast receivers. RX-V, RX-A, R-N, CX-A flagship pre-pros - same single-purpose premium control surface, this time over YXC. Real-hardware beta on a CX-A5200.
+
+`Flutter` `Yamaha Extended Control` `SSDP`
+
+**→** *coming soon*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 ProjectorPilot *(in development)*
 Controller for Epson projectors. Power, picture settings, color modes, HDR, lens memory, keystone, lamp hours, OSD navigation - all over Wi-Fi.
 
 `Flutter` `PJLink` `Web Control`
@@ -96,11 +108,9 @@ Controller for Epson projectors. Power, picture settings, color modes, HDR, lens
 **→** [Details](https://miyarahub.com/projector-pilot/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🛰️ Network Deck *(coming soon)*
+### 🛰️ Network Deck *(in development)*
 Mobile controller for Ubiquiti UniFi. Dashboard, clients, devices, WiFi, VPN, firewall, integrations (Protect, Access), site survey, speed tests, bandwidth monitoring - full UniFi toolkit in your pocket.
 
 `Flutter` `UniFi Controller API` `WebSocket`
@@ -108,6 +118,8 @@ Mobile controller for Ubiquiti UniFi. Dashboard, clients, devices, WiFi, VPN, fi
 **→** [Details](https://miyarahub.com/network-deck/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚀 More coming...
@@ -121,7 +133,7 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **45+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **44+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
@@ -257,7 +269,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 45+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 44+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
