@@ -199,7 +199,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>📡 TV & Set-Top Boxes</b> - Horizon, Panasonic Viera, Sky Q</summary>
+<summary><b>📡 TV & Set-Top Boxes</b> - Horizon, Panasonic Viera, Sky Q, VIDAA</summary>
 <br/>
 
 | Integration | Description |
@@ -207,6 +207,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-horizon](https://github.com/mase1981/uc-intg-horizon) | LG Horizon TV boxes (Ziggo/Virgin/UPC) |
 | [uc-intg-panasonicviera](https://github.com/mase1981/uc-intg-panasonicviera) | Panasonic Viera TVs |
 | [uc-intg-skyq](https://github.com/mase1981/uc-intg-skyq) | Sky Q devices |
+| [uc-intg-vidaa](https://github.com/mase1981/uc-intg-vidaa) | Hisense VIDAA Smart TVs |
 </details>
 
 <details>
