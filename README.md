@@ -1,9 +1,9 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/header.svg" alt="Meir Miyara - Leader, Builder, Maker" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/âš¡_MiyaraHub-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
+  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/⚡_MiyaraHub-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
   <a href="https://elanaudiolab.com"><img src="https://img.shields.io/badge/Elan_Audio_Lab-%23161b22?style=for-the-badge&logoColor=FF6B6B" alt="Elan Audio Lab"/></a>
   <a href="https://github.com/mase1981?tab=repositories"><img src="https://img.shields.io/badge/50+_Repos-%23161b22?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Repos"/></a>
 </p>
@@ -18,7 +18,7 @@
 
 ---
 
-### ðŸ‘‹ Hey
+### 👋 Hey
 
 I lead engineering teams by day and build my own products at night. Based in Dallas, TX - most of my work sits at the intersection of **smart home tech**, **AV control**, and **cross-platform mobile apps**. I run [**MiyaraHub Technologies**](https://miyarahub.com), a small studio shipping production software for the IoT and home automation space.
 
@@ -26,7 +26,7 @@ I like solving integration problems - the kind where you have 6 different protoc
 
 ---
 
-## ðŸ“± Apps - Live on Google Play & App Store
+## 📱 Apps - Live on Google Play & App Store
 
 Production apps built and shipped under [MiyaraHub Technologies](https://miyarahub.com). All cross-platform with Flutter.
 
@@ -34,95 +34,95 @@ Production apps built and shipped under [MiyaraHub Technologies](https://miyarah
 <tr>
 <td width="50%" valign="top">
 
-### ðŸŽ¸ [Elan Audio Lab](https://miyarahub.com/elan-audio-lab/)
+### 🎸 [Elan Audio Lab](https://miyarahub.com/elan-audio-lab/)
 Full-stack e-commerce platform for premium custom tube amplifiers. Product catalog, real-time customization, Square + PayPal payments, admin portal, automated email system.
 
 `Flutter` `Supabase` `Square SDK` `PayPal` `Cloudflare`
 
-**â†’** [Web](https://elanaudiolab.com) Â· [Google Play](https://play.google.com/store/apps/details?id=com.elanaudiolab.app) Â· iOS (coming soon)
+**→** [Web](https://elanaudiolab.com) · [Google Play](https://play.google.com/store/apps/details?id=com.elanaudiolab.app) · iOS (coming soon)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸŽ›ï¸ [AVR Maestro](https://miyarahub.com/avr-maestro/)
+### 🎛️ [AVR Maestro](https://miyarahub.com/avr-maestro/)
 Premium controller for Denon & Marantz AV receivers. Volume, inputs, surround modes, multi-zone, HEOS music browsing, Audyssey, Dirac Live, IMAX Enhanced, Auro-3D, Android widgets.
 
 `Flutter` `HTTP` `Telnet` `HEOS`
 
-**â†’** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) Â· [App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) Â· [Details](https://miyarahub.com/avr-maestro/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) · [App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) · [Details](https://miyarahub.com/avr-maestro/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### âš¡ [FuryPath](https://miyarahub.com/fury-path/)
+### ⚡ [FuryPath](https://miyarahub.com/fury-path/)
 Comprehensive mobile controller for HDFury HDMI processors. EDID management, HDR/Dolby Vision control, CEC/eARC config, JVC macros, real-time signal info - all over Wi-Fi.
 
 `Flutter` `HTTP/SSI` `HDFury API`
 
-**â†’** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) Â· [App Store](https://apps.apple.com/us/app/id6763290302) Â· [Details](https://miyarahub.com/fury-path/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) · [App Store](https://apps.apple.com/us/app/id6763290302) · [Details](https://miyarahub.com/fury-path/)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ”‹ [UPSight](https://miyarahub.com/upsight/)
+### 🔋 [UPSight](https://miyarahub.com/upsight/)
 UPS monitoring for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable device. Real-time battery, power metrics, outlet control, event logging, smart alerts.
 
 `Flutter` `SNMP` `NUT Protocol`
 
-**â†’** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) Â· [App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) Â· [Details](https://miyarahub.com/upsight/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · [App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) · [Details](https://miyarahub.com/upsight/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ’¾ [Synology Manager](https://miyarahub.com/synology-manager/)
+### 💾 [Synology Manager](https://miyarahub.com/synology-manager/)
 Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker containers, network, surveillance cameras, backup tasks - everything in one dashboard.
 
 `Flutter` `Synology DSM API` `Docker`
 
-**â†’** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) Â· [App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) Â· [Details](https://miyarahub.com/synology-manager/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) · [App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) · [Details](https://miyarahub.com/synology-manager/)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸŽ¼ AVR Maestro MC *(in development)*
+### 🎼 AVR Maestro MC *(in development)*
 Sibling to AVR Maestro for Yamaha MusicCast receivers. RX-V, RX-A, R-N, CX-A flagship pre-pros - same single-purpose premium control surface, this time over YXC. Real-hardware beta on a CX-A5200.
 
 `Flutter` `Yamaha Extended Control` `SSDP`
 
-**â†’** *coming soon*
+**→** *coming soon*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸŽ¥ ProjectorPilot *(in development)*
+### 🎥 ProjectorPilot *(in development)*
 Controller for Epson projectors. Power, picture settings, color modes, HDR, lens memory, keystone, lamp hours, OSD navigation - all over Wi-Fi.
 
 `Flutter` `PJLink` `Web Control`
 
-**â†’** [Details](https://miyarahub.com/projector-pilot/)
+**→** [Details](https://miyarahub.com/projector-pilot/)
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ›°ï¸ Network Deck *(in development)*
+### 🛰️ Network Deck *(in development)*
 Mobile controller for Ubiquiti UniFi. Dashboard, clients, devices, WiFi, VPN, firewall, integrations (Protect, Access), site survey, speed tests, bandwidth monitoring - full UniFi toolkit in your pocket.
 
 `Flutter` `UniFi Controller API` `WebSocket`
 
-**â†’** [Details](https://miyarahub.com/network-deck/)
+**→** [Details](https://miyarahub.com/network-deck/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸš€ More coming...
+### 🚀 More coming...
 Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site](https://miyarahub.com) or [Discord](https://discord.gg/UmVtxE5fXN) for release news.
 
 </td>
@@ -131,7 +131,7 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ---
 
-## ðŸ”Œ Unfolded Circle Integration Ecosystem
+## 🔌 Unfolded Circle Integration Ecosystem
 
 The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **45+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
@@ -144,7 +144,7 @@ The largest third-party integration library for the [Unfolded Circle Remote](htt
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
 
-### ðŸ“± [UC Remote Android](https://github.com/mase1981/uc-remote-android) - Unofficial Android Companion App
+### 📱 [UC Remote Android](https://github.com/mase1981/uc-remote-android) - Unofficial Android Companion App
 
 A full-featured native Android companion app for the Unfolded Circle Remote Two and Remote 3. Entity management, real-time WebSocket updates, custom UI pages, profile support, and Wake-on-LAN - built with 100% Kotlin.
 
@@ -155,7 +155,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 ---
 
 <details>
-<summary><b>ðŸŽ¬ AV Receivers & Processors</b> - Anthem, ARCAM, Cambridge Audio, Emotiva, JBL, NAD</summary>
+<summary><b>🎬 AV Receivers & Processors</b> - Anthem, ARCAM, Cambridge Audio, Emotiva, JBL, NAD</summary>
 <br/>
 
 | Integration | Description |
@@ -169,7 +169,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸŽµ Audio Streamers & Music</b> - Bluesound, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
+<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
 <br/>
 
 | Integration | Description |
@@ -185,7 +185,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸ“º Media Players & Streaming</b> - Emby, Fire TV, Jellyfin, Plex, R_Volution, VLC</summary>
+<summary><b>📺 Media Players & Streaming</b> - Emby, Fire TV, Jellyfin, Plex, R_Volution, VLC</summary>
 <br/>
 
 | Integration | Description |
@@ -199,7 +199,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸ“¡ TV & Set-Top Boxes</b> - Horizon, Panasonic Viera, Sky Q, VIDAA</summary>
+<summary><b>📡 TV & Set-Top Boxes</b> - Horizon, Panasonic Viera, Sky Q, VIDAA</summary>
 <br/>
 
 | Integration | Description |
@@ -211,7 +211,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸŽ® Gaming</b> - Xbox, Xbox Live, Steam</summary>
+<summary><b>🎮 Gaming</b> - Xbox, Xbox Live, Steam</summary>
 <br/>
 
 | Integration | Description |
@@ -222,7 +222,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸ  Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi</summary>
+<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi</summary>
 <br/>
 
 | Integration | Description |
@@ -235,7 +235,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸŽ¥ Video & Projection</b> - CCTV, Epson PJLink, HDFury, madVR, Monoprice HTP-1</summary>
+<summary><b>🎥 Video & Projection</b> - CCTV, Epson PJLink, HDFury, madVR, Monoprice HTP-1</summary>
 <br/>
 
 | Integration | Description |
@@ -248,7 +248,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>ðŸ–¥ï¸ PC, Network & Widgets</b> - eero, HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
+<summary><b>🖥️ PC, Network & Widgets</b> - eero, HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
 <br/>
 
 | Integration | Description |
@@ -263,24 +263,24 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <p align="center">
-  <a href="https://github.com/stars/mase1981/lists/unfolded-circle-integrations"><b>ðŸ“‹ Full Integration Directory â†’</b></a>
+  <a href="https://github.com/stars/mase1981/lists/unfolded-circle-integrations"><b>📋 Full Integration Directory →</b></a>
 </p>
 
 ---
 
-## ðŸ’ Support Open Source
+## 💝 Support Open Source
 
 All 45+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
-  <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/â™¥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
+  <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
   <a href="https://buymeacoffee.com/meirmiyara"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/></a>
   <a href="https://paypal.me/mmiyara"><img src="https://img.shields.io/badge/PayPal-%2300457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
 </p>
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
@@ -299,7 +299,7 @@ All 45+ Unfolded Circle integrations and the Android companion app are **open so
 
 ---
 
-## ðŸŽµ Music - dj M.a.S.e
+## 🎵 Music - dj M.a.S.e
 
 <p align="center">
   <img src="assets/mase-banner.jpg" alt="dj M.a.S.e" width="600"/>
@@ -320,10 +320,10 @@ Also big into home theater and home automation. If it has an IP address and a qu
 ---
 
 <p align="center">
-  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/ðŸŒ_miyarahub.com-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
+  <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/🌐_miyarahub.com-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
   <a href="https://github.com/mase1981"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <sub>Built with caffeine and an unreasonable number of protocol specs Â· <a href="https://miyarahub.com">MiyaraHub Technologies LLC</a> Â· Dallas, TX</sub>
+  <sub>Built with caffeine and an unreasonable number of protocol specs · <a href="https://miyarahub.com">MiyaraHub Technologies LLC</a> · Dallas, TX</sub>
 </p>
