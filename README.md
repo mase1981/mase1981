@@ -222,7 +222,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi</summary>
+<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi, Whisker</summary>
 <br/>
 
 | Integration | Description |
@@ -232,6 +232,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf) | Nanoleaf light panels |
 | [uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings) | Samsung SmartThings devices |
 | [uc-intg-unifi](https://github.com/mase1981/uc-intg-unifi) | Ubiquiti UniFi Network & Protect |
+| [uc-intg-whisker](https://github.com/mase1981/uc-intg-whisker) | Whisker Litter-Robot smart litter boxes |
 </details>
 
 <details>
