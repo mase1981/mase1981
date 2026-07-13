@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
   <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="45+ Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
-  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-4-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="4 Apps on App Store"/></a>
-  <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS-FF6B6B?style=flat-square" alt="Platforms"/>
+  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
+  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-2-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="2 Apps on Microsoft Store"/></a>
+  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_Mac_App_Store-2-FF3B3B?style=flat-square&logo=apple&logoColor=white" alt="2 Apps on Mac App Store"/></a>
+  <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS_%C2%B7_Windows_%C2%B7_macOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
 
 ---
@@ -26,7 +28,7 @@ I like solving integration problems - the kind where you have 6 different protoc
 
 ---
 
-## 📱 Apps - Live on Google Play & App Store
+## 📱 Apps - Live on Google Play, App Store, Microsoft Store & Mac App Store
 
 Production apps built and shipped under [MiyaraHub Technologies](https://miyarahub.com). All cross-platform with Flutter.
 
@@ -39,7 +41,7 @@ Full-stack e-commerce platform for premium custom tube amplifiers. Product catal
 
 `Flutter` `Supabase` `Square SDK` `PayPal` `Cloudflare`
 
-**→** [Web](https://elanaudiolab.com) · [Google Play](https://play.google.com/store/apps/details?id=com.elanaudiolab.app) · iOS (coming soon)
+**→** [Web](https://elanaudiolab.com) · [Google Play](https://play.google.com/store/apps/details?id=com.elanaudiolab.app) · [App Store](https://apps.apple.com/us/app/id6760269249)
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +51,7 @@ Premium controller for Denon & Marantz AV receivers. Volume, inputs, surround mo
 
 `Flutter` `HTTP` `Telnet` `HEOS`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) · [App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) · [Details](https://miyarahub.com/avr-maestro/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.avr_maestro) · [App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) · [Mac App Store](https://apps.apple.com/us/app/avr-maestro/id6762881597) · [Microsoft Store](https://apps.microsoft.com/detail/9P4M7W4J5106) · [Details](https://miyarahub.com/avr-maestro/)
 
 </td>
 </tr>
@@ -83,7 +85,7 @@ Mobile management for Synology NAS. Real-time CPU, memory, storage, Docker conta
 
 `Flutter` `Synology DSM API` `Docker`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) · [App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) · [Details](https://miyarahub.com/synology-manager/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.synomanager) · [App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) · [Mac App Store](https://apps.apple.com/us/app/syno-manager/id6763011668) · [Microsoft Store](https://apps.microsoft.com/detail/9P19N2B54N1R) · [Details](https://miyarahub.com/synology-manager/)
 
 </td>
 <td width="50%" valign="top">
