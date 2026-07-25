@@ -10,11 +10,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="45+ Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-47+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="47+ Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
-  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-2-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="2 Apps on Microsoft Store"/></a>
-  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_Mac_App_Store-2-FF3B3B?style=flat-square&logo=apple&logoColor=white" alt="2 Apps on Mac App Store"/></a>
+  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-3-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="3 Apps on Microsoft Store"/></a>
+  <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_Mac_App_Store-3-FF3B3B?style=flat-square&logo=apple&logoColor=white" alt="3 Apps on Mac App Store"/></a>
   <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS_%C2%B7_Windows_%C2%B7_macOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
 
@@ -73,7 +73,7 @@ UPS monitoring for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable devi
 
 `Flutter` `SNMP` `NUT Protocol`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · [App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) · [Details](https://miyarahub.com/upsight/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.upsight) · [App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) · [Mac App Store](https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779) · [Microsoft Store](https://apps.microsoft.com/detail/9PCH5VFVQSGH) · [Details](https://miyarahub.com/upsight/)
 
 </td>
 </tr>
@@ -135,13 +135,13 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **45+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **47+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-45+-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-47+-FF6B6B?style=for-the-badge" alt="Integrations"/>
   <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
@@ -157,7 +157,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 ---
 
 <details>
-<summary><b>🎬 AV Receivers & Processors</b> - Anthem, ARCAM, Cambridge Audio, Emotiva, JBL, NAD</summary>
+<summary><b>🎬 AV Receivers & Processors</b> - Anthem, ARCAM, Cambridge Audio, Emotiva, ezBEQ, JBL, NAD</summary>
 <br/>
 
 | Integration | Description |
@@ -166,6 +166,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-arcam](https://github.com/mase1981/uc-intg-arcam) | ARCAM devices |
 | [uc-intg-cambridge-audio](https://github.com/mase1981/uc-intg-cambridge-audio) | Cambridge Audio devices |
 | [uc-intg-emotiva](https://github.com/mase1981/uc-intg-emotiva) | Emotiva Audio/Video processors |
+| [uc-intg-ezbeq](https://github.com/mase1981/uc-intg-ezbeq) | ezBEQ BEQ bass filter management |
 | [uc-intg-jblav](https://github.com/mase1981/uc-intg-jblav) | JBL MA Series AV Receivers |
 | [uc-intg-nadav](https://github.com/mase1981/uc-intg-nadav) | NAD AV devices |
 </details>
@@ -224,13 +225,14 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, Nanoleaf, SmartThings, UniFi, Whisker</summary>
+<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, KNX, Nanoleaf, SmartThings, UniFi, Whisker</summary>
 <br/>
 
 | Integration | Description |
 | :--- | :--- |
 | [uc-intg-bond](https://github.com/mase1981/uc-intg-bond) | BOND smart devices (fans, shades, fireplaces) |
 | [uc-intg-govee](https://github.com/mase1981/uc-intg-govee) | Govee smart lights & devices |
+| [uc-intg-knx](https://github.com/mase1981/uc-intg-knx) | KNX building automation (lights, blinds, HVAC, scenes) |
 | [uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf) | Nanoleaf light panels |
 | [uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings) | Samsung SmartThings devices |
 | [uc-intg-unifi](https://github.com/mase1981/uc-intg-unifi) | Ubiquiti UniFi Network & Protect |
@@ -273,7 +275,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 45+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 47+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
