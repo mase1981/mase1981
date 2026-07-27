@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-47+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="47+ Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-49+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="49+ Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
   <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-3-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="3 Apps on Microsoft Store"/></a>
@@ -135,13 +135,13 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **47+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **49+ integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-47+-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-49+-FF6B6B?style=for-the-badge" alt="Integrations"/>
   <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
@@ -172,17 +172,19 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
+<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Bose, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
 <br/>
 
 | Integration | Description |
 | :--- | :--- |
 | [uc-intg-bluesound](https://github.com/mase1981/uc-intg-bluesound) | Bluesound devices |
+| [uc-intg-bose](https://github.com/mase1981/uc-intg-bose) | Bose smart soundbars & speakers (Bose Music app) |
 | [uc-intg-eversolo](https://github.com/mase1981/uc-intg-eversolo) | Eversolo DAC/streamers |
 | [uc-intg-heos](https://github.com/mase1981/uc-intg-heos) | Denon/Marantz HEOS multi-room audio |
 | [uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver) | Lyrion Music Server (Squeezebox) |
 | [uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast) | Yamaha MusicCast |
 | [uc-intg-naim](https://github.com/mase1981/uc-intg-naim) | Naim Audio |
+| [uc-intg-soundtouch](https://github.com/mase1981/uc-intg-soundtouch) | Bose SoundTouch speakers |
 | [uc-intg-spotify](https://github.com/mase1981/uc-intg-spotify) | Spotify playback & controls |
 | [uc-intg-wiim](https://github.com/mase1981/uc-intg-wiim) | WiiM Hi-Res Audio streamers |
 </details>
@@ -275,7 +277,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 47+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 49+ Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
