@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/integrations-50+-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="50+ Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
-  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-3-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="3 Apps on Microsoft Store"/></a>
+  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-4-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="4 Apps on Microsoft Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_Mac_App_Store-3-FF3B3B?style=flat-square&logo=apple&logoColor=white" alt="3 Apps on Mac App Store"/></a>
   <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS_%C2%B7_Windows_%C2%B7_macOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
@@ -59,11 +59,11 @@ Premium controller for Denon & Marantz AV receivers. Volume, inputs, surround mo
 <td width="50%" valign="top">
 
 ### ⚡ [FuryPath](https://miyarahub.com/fury-path/)
-Comprehensive mobile controller for HDFury HDMI processors. EDID management, HDR/Dolby Vision control, CEC/eARC config, JVC macros, real-time signal info - all over Wi-Fi.
+Comprehensive controller for HDFury HDMI processors, on mobile and Windows. EDID management, HDR/Dolby Vision control, CEC/eARC config, JVC macros, real-time signal info - all over Wi-Fi.
 
 `Flutter` `HTTP/SSI` `HDFury API`
 
-**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) · [App Store](https://apps.apple.com/us/app/id6763290302) · [Details](https://miyarahub.com/fury-path/)
+**→** [Google Play](https://play.google.com/store/apps/details?id=com.miyarahub.furypath) · [App Store](https://apps.apple.com/us/app/id6763290302) · [Microsoft Store](https://apps.microsoft.com/detail/9N1C30TLW0TB) · [Details](https://miyarahub.com/fury-path/)
 
 </td>
 <td width="50%" valign="top">
