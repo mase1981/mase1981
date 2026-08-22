@@ -172,7 +172,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Bose, Eversolo, HEOS, MusicCast, Naim, Spotify, WiiM</summary>
+<summary><b>🎵 Audio Streamers & Music</b> - Bluesound, Bose, Eversolo, HEOS, JBL, MusicCast, Naim, Spotify, WiiM</summary>
 <br/>
 
 | Integration | Description |
@@ -181,6 +181,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-bose](https://github.com/mase1981/uc-intg-bose) | Bose smart soundbars & speakers (Bose Music app) |
 | [uc-intg-eversolo](https://github.com/mase1981/uc-intg-eversolo) | Eversolo DAC/streamers |
 | [uc-intg-heos](https://github.com/mase1981/uc-intg-heos) | Denon/Marantz HEOS multi-room audio |
+| [uc-intg-jbl-one](https://github.com/mase1981/uc-intg-jbl-one) | JBL soundbars (JBL One app) |
 | [uc-intg-lmserver](https://github.com/mase1981/uc-intg-lmserver) | Lyrion Music Server (Squeezebox) |
 | [uc-intg-musiccast](https://github.com/mase1981/uc-intg-musiccast) | Yamaha MusicCast |
 | [uc-intg-naim](https://github.com/mase1981/uc-intg-naim) | Naim Audio |
