@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-52-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="52 Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-56-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="56 Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
   <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-4-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="4 Apps on Microsoft Store"/></a>
@@ -135,13 +135,13 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **52 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **56 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-52-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-56-FF6B6B?style=for-the-badge" alt="Integrations"/>
   <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
@@ -229,19 +229,23 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🏠 Smart Home & IoT</b> - Bond, Govee, KNX, Motion Blinds, Nanoleaf, SmartThings, UniFi, Whisker</summary>
+<summary><b>🏠 Smart Home & IoT</b> - Bond, EcoNet, Govee, KNX, Motion Blinds, Nanoleaf, Rain Bird, Schlage, SmartThings, UniFi, Whisker, YoLink</summary>
 <br/>
 
 | Integration | Description |
 | :--- | :--- |
 | [uc-intg-bond](https://github.com/mase1981/uc-intg-bond) | BOND smart devices (fans, shades, fireplaces) |
+| [uc-intg-econet](https://github.com/mase1981/uc-intg-econet) | Rheem EcoNet water heaters & thermostats |
 | [uc-intg-govee](https://github.com/mase1981/uc-intg-govee) | Govee smart lights & devices |
 | [uc-intg-knx](https://github.com/mase1981/uc-intg-knx) | KNX building automation (lights, blinds, HVAC, scenes) |
 | [uc-intg-motion-blinds](https://github.com/mase1981/uc-intg-motion-blinds) | Motion Blinds / Coulisse motorized blinds & shades (Brel Home, Smart Home) |
 | [uc-intg-nanoleaf](https://github.com/mase1981/uc-intg-nanoleaf) | Nanoleaf light panels |
+| [uc-intg-rainbird](https://github.com/mase1981/uc-intg-rainbird) | Rain Bird irrigation controllers (LNK Wi-Fi) |
+| [uc-intg-schlage](https://github.com/mase1981/uc-intg-schlage) | Schlage Encode/Sense Wi-Fi smart locks |
 | [uc-intg-smartthings](https://github.com/mase1981/uc-intg-smartthings) | Samsung SmartThings devices |
 | [uc-intg-unifi](https://github.com/mase1981/uc-intg-unifi) | Ubiquiti UniFi Network & Protect |
 | [uc-intg-whisker](https://github.com/mase1981/uc-intg-whisker) | Whisker Litter-Robot smart litter boxes |
+| [uc-intg-yolink](https://github.com/mase1981/uc-intg-yolink) | YoLink smart-home switches & sensors |
 </details>
 
 <details>
@@ -280,7 +284,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 52 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 56 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
