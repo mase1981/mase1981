@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-59-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="59 Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-58-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="58 Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
   <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-4-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="4 Apps on Microsoft Store"/></a>
@@ -135,13 +135,13 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **59 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **58 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-59-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-58-FF6B6B?style=for-the-badge" alt="Integrations"/>
   <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
@@ -192,7 +192,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>📺 Media Players & Streaming</b> - Emby, Fire TV, Jellyfin, Plex, R_Volution, VLC</summary>
+<summary><b>📺 Media Players & Streaming</b> - Emby, Fire TV, Jellyfin, R_Volution, VLC</summary>
 <br/>
 
 | Integration | Description |
@@ -200,7 +200,6 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-emby](https://github.com/mase1981/uc-intg-emby) | Emby media server |
 | [uc-intg-firetv](https://github.com/mase1981/uc-intg-firetv) | Amazon Fire TV (IP control, no ADB) |
 | [uc-intg-jellyfin](https://github.com/mase1981/uc-intg-jellyfin) | Jellyfin media server |
-| [uc-intg-plex](https://github.com/mase1981/uc-intg-plex) | Plex media server |
 | [uc-intg-rvolution](https://github.com/mase1981/uc-intg-rvolution) | R_Volution high-end media players |
 | [uc-intg-vlcmedia](https://github.com/mase1981/uc-intg-vlcmedia) | VLC Media Player |
 </details>
@@ -258,7 +257,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | Integration | Description |
 | :--- | :--- |
 | [uc-intg-cctv](https://github.com/mase1981/uc-intg-cctv) | Security camera viewer |
-| [uc-intg-epson-pjlink](https://github.com/mase1981/uc-intg-epson-pjlink) | Epson projectors via PJLink |
+| [uc-intg-epson](https://github.com/mase1981/uc-intg-epson) | Epson projectors via PJLink |
 | [uc-intg-hdfury](https://github.com/mase1981/uc-intg-hdfury) | HDFury VRRooM HDMI processor |
 | [uc-intg-madvr](https://github.com/mase1981/uc-intg-madvr) | madVR video processor |
 | [uc-intg-monoprice-htp1](https://github.com/mase1981/uc-intg-monoprice-htp1) | Monoprice HTP-1 processor |
@@ -287,7 +286,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 59 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 58 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>
