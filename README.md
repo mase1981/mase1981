@@ -5,15 +5,17 @@
 <p align="center">
   <a href="https://miyarahub.com"><img src="https://img.shields.io/badge/⚡_MiyaraHub-%23FF3B3B?style=for-the-badge&logoColor=white" alt="MiyaraHub"/></a>
   <a href="https://elanaudiolab.com"><img src="https://img.shields.io/badge/Elan_Audio_Lab-%23161b22?style=for-the-badge&logoColor=FF6B6B" alt="Elan Audio Lab"/></a>
+  <a href="https://synomanager.com"><img src="https://img.shields.io/badge/SynoManager-%23161b22?style=for-the-badge&logoColor=FF6B6B" alt="SynoManager"/></a>
+  <a href="https://projectorpilot.com"><img src="https://img.shields.io/badge/ProjectorPilot-%23161b22?style=for-the-badge&logoColor=FF6B6B" alt="ProjectorPilot"/></a>
   <a href="https://github.com/mase1981?tab=repositories"><img src="https://img.shields.io/badge/50+_Repos-%23161b22?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="Repos"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=flat-square&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-58-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="58 Integrations"/>
+  <img src="https://img.shields.io/badge/integrations-59-FF6B6B?style=flat-square&logo=unrealengine&logoColor=white" alt="59 Integrations"/>
   <a href="https://play.google.com/store/apps/dev?id=5430508146048197775"><img src="https://img.shields.io/badge/apps_on_Play_Store-6-FF3B3B?style=flat-square&logo=googleplay&logoColor=white" alt="6 Apps on Play Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_App_Store-5-FF3B3B?style=flat-square&logo=appstore&logoColor=white" alt="5 Apps on App Store"/></a>
-  <a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-4-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="4 Apps on Microsoft Store"/></a>
+  <a href="https://apps.microsoft.com/search/publisher?name=MiyaraHub+Technologies+LLC"><img src="https://img.shields.io/badge/apps_on_Microsoft_Store-4-FF3B3B?style=flat-square&logo=windows&logoColor=white" alt="4 Apps on Microsoft Store"/></a>
   <a href="https://apps.apple.com/us/developer/miyarahub-technologies-llc/id1883545892"><img src="https://img.shields.io/badge/apps_on_Mac_App_Store-4-FF3B3B?style=flat-square&logo=apple&logoColor=white" alt="4 Apps on Mac App Store"/></a>
   <img src="https://img.shields.io/badge/platforms-Web_%C2%B7_Android_%C2%B7_iOS_%C2%B7_Windows_%C2%B7_macOS-FF6B6B?style=flat-square" alt="Platforms"/>
 </p>
@@ -135,14 +137,14 @@ Additional MiyaraHub apps in the pipeline. Follow along via the [MiyaraHub site]
 
 ## 🔌 Unfolded Circle Integration Ecosystem
 
-The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **58 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
+The largest third-party integration library for the [Unfolded Circle Remote](https://www.unfoldedcircle.com/) platform. **59 integrations** connecting AV receivers, music streamers, media players, gaming consoles, smart home devices, projectors, and more to the Remote Two and Remote 3. Plus an **unofficial Android companion app** for the remote itself.
 
 **All integrations are open source and free for the community.** If you find them useful, consider [sponsoring the project](https://github.com/sponsors/mase1981) to help keep development going.
 
 <p>
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fdownloads.json&style=for-the-badge&color=FF3B3B&logo=github&label=Total%20Downloads" alt="Total Downloads"/>
-  <img src="https://img.shields.io/badge/integrations-58-FF6B6B?style=for-the-badge" alt="Integrations"/>
-  <img src="https://img.shields.io/badge/stars-210+-FFD700?style=for-the-badge&logo=star&logoColor=FFD700" alt="Stars"/>
+  <img src="https://img.shields.io/badge/integrations-59-FF6B6B?style=for-the-badge" alt="Integrations"/>
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmase1981%2Fmase1981%2Fmain%2Fstars.json&style=for-the-badge&color=FFD700&logo=github&label=stars" alt="Stars"/>
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/Sponsor-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 </p>
 
@@ -264,7 +266,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 </details>
 
 <details>
-<summary><b>🖥️ PC, Network & Widgets</b> - eero, HTPC, NZB, OctoPrint, Synology, Weather, NASA</summary>
+<summary><b>🖥️ PC, Network & Widgets</b> - eero, HTPC, NZB, OctoPrint, Sports, Synology, Weather, NASA</summary>
 <br/>
 
 | Integration | Description |
@@ -273,6 +275,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 | [uc-intg-htpc](https://github.com/mase1981/uc-intg-htpc) | HTPC/Windows system monitor & controls |
 | [uc-intg-nzbinfo](https://github.com/mase1981/uc-intg-nzbinfo) | NZB application monitoring |
 | [uc-intg-octoprint](https://github.com/mase1981/uc-intg-octoprint) | OctoPrint 3D printer control |
+| [uc-intg-sports](https://github.com/mase1981/uc-intg-sports) | Live scores, fixtures & league tables (soccer, NFL, NBA, MLB, NHL & more) |
 | [uc-intg-synology](https://github.com/mase1981/uc-intg-synology-system) | Synology NAS monitor & controls |
 | [uc-intg-weather](https://github.com/mase1981/uc-intg-weather) | Weather forecast display |
 | [uc-intg-nasa](https://github.com/mase1981/uc-intg-nasa) | Live NASA data & imagery |
@@ -286,7 +289,7 @@ A full-featured native Android companion app for the Unfolded Circle Remote Two 
 
 ## 💝 Support Open Source
 
-All 58 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
+All 59 Unfolded Circle integrations and the Android companion app are **open source and always will be**. They're built for the community and available to everyone for free. If they've been useful to you, sponsoring helps cover development time and keeps new integrations coming.
 
 <p align="center">
   <a href="https://github.com/sponsors/mase1981"><img src="https://img.shields.io/badge/♥_Sponsor_on_GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/></a>

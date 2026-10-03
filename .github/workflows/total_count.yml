@@ -20,6 +20,7 @@ jobs:
             const fs = require('fs');
             const username = context.repo.owner;
             let totalDownloads = 0;
+            let integrationStars = 0;
 
             console.log(`Fetching repos for ${username}...`);
             
@@ -32,6 +33,7 @@ jobs:
             // 2. Iterate through repos to sum release downloads
             for (const repo of repos) {
               if (repo.fork) continue; // Optional: Skip forks
+              if (repo.name.startsWith('uc-intg-')) integrationStars += repo.stargazers_count;
 
               try {
                 const releases = await github.paginate("GET /repos/{owner}/{repo}/releases", {
@@ -63,10 +65,20 @@ jobs:
 
             fs.writeFileSync('downloads.json', JSON.stringify(badgeData));
 
+            // 4. Stars across the Unfolded Circle integrations (uc-intg-* repos)
+            console.log(`Integration stars: ${integrationStars}`);
+            fs.writeFileSync('stars.json', JSON.stringify({
+              schemaVersion: 1,
+              label: "stars",
+              message: integrationStars.toString(),
+              color: "FFD700",
+              namedLogo: "github"
+            }));
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add downloads.json
+          git add downloads.json stars.json
           # Only commit if the count has changed
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update total downloads count" && git push)
